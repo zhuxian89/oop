@@ -10,6 +10,7 @@
   <modules>
     <module>../six</module>
       <module>../eight</module>
+      <module>../nine</module>
   </modules>
   <packaging>pom</packaging>
 

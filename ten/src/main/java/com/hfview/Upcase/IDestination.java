@@ -7,7 +7,5 @@ package com.hfview.Upcase;
  * @since: 2019/3/7 15:25
  */
 public interface IDestination {
-
     String readLabel();
-
 }

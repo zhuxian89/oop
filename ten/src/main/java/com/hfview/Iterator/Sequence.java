@@ -1,7 +1,7 @@
 package com.hfview.Iterator;
 
 /**
- * 第一个内部类
+ * 经典的应用场景---迭代器模式
  *
  * @author: zhw
  * @since: 2019/3/7 14:24

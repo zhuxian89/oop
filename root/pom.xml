@@ -11,6 +11,7 @@
     <module>../six</module>
       <module>../eight</module>
       <module>../nine</module>
+      <module>../ten</module>
   </modules>
   <packaging>pom</packaging>
 

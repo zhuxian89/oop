@@ -15,6 +15,15 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+
+        String aa = "abc";
+
+        System.out.println(aa);
+
+        aa = "def";
+
+
+        System.out.println(aa);
+
     }
 }

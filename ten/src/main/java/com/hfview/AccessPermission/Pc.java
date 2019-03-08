@@ -1,7 +1,7 @@
 package com.hfview.AccessPermission;
 
 /**
- * //TODO 写注释
+ * 内部类的访问权限
  *
  * @author: zhw
  * @since: 2019/3/7 15:44

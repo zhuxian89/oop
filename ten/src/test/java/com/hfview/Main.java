@@ -17,7 +17,7 @@ public class Main {
         Keypad keypad = new Keypad();
         keypad.setPlayCommand(playCommand);
 
-        keypad.action();
+        keypad.pay();
     }
 
 }

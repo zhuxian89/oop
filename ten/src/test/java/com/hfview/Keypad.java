@@ -14,7 +14,7 @@ public class Keypad {
         this.playCommand = playCommand;
     }
 
-    public void action(){
+    public void pay(){
         playCommand.execute();
     }
 }
